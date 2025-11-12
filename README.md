@@ -14,10 +14,10 @@ Everyday activities such as:
 
 👉 This project aims to empower individuals by:
 
-1.Calculating their daily, weekly, and monthly carbon footprints.
-2.Providing personalized insights into lifestyle habits.
-3.Offering practical recommendations to reduce emissions.
-4.Encouraging sustainable living practices 🌱.
+<br>1.Calculating their daily, weekly, and monthly carbon footprints.
+<br>2.Providing personalized insights into lifestyle habits.
+<br>3.Offering practical recommendations to reduce emissions.
+<br>4.Encouraging sustainable living practices 🌱.
 
 🛠️ Tech Stack
 
