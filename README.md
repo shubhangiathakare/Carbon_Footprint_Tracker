@@ -29,14 +29,16 @@ Everyday activities such as:
 <br>🖼️ Pillow → Image processing
 <br>🔐 Base64 → Encoding & decoding images
 
-🔹 Frontend Development ⚡ Streamlit → Web app framework 🎨 CSS + JavaScript → UI styling & interactivity 🧪 Testing → Ensured smooth integration between frontend & backend.
+🔹 Frontend Development <br>⚡ Streamlit → Web app framework
+<br>🎨 CSS + JavaScript → UI styling & interactivity 
+<br>🧪 Testing → Ensured smooth integration between frontend & backend.
 
 🚀 How It Works
-
+<br>
 1️⃣ User enters their daily/weekly/monthly activities.
-2️⃣ Backend calculates carbon footprint using ML + data analysis.
-3️⃣ Insights & visualizations are generated 📊.
-4️⃣ Recommendations for sustainable living are displayed 🌱.
+<br>2️⃣ Backend calculates carbon footprint using ML + data analysis.
+<br>3️⃣ Insights & visualizations are generated 📊.
+<br>4️⃣ Recommendations for sustainable living are displayed 🌱.
 
 🎯 Project Goals
 
