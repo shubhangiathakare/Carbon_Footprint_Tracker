@@ -42,9 +42,9 @@ Everyday activities such as:
 
 🎯 Project Goals
 
-1.Raise awareness about individual CO₂ contributions.
-2.Encourage eco-friendly lifestyle changes.
-3.Provide a digital tool for sustainability.
+<br>1.Raise awareness about individual CO₂ contributions.
+<br>2.Encourage eco-friendly lifestyle changes.
+<br>3.Provide a digital tool for sustainability.
 
 # **Team Members**  
 
