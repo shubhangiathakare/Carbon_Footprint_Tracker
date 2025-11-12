@@ -8,9 +8,9 @@ Our project, **"Carbon Footprint Detection,"** aims to bridge this gap by provid
 Everyday activities such as: 
 <br>🚗 Transportation
 <br>💡 Energy consumption
-🥗 Food production & consumption
-❄️ Heating & Cooling systems
-all contribute to the surge in CO₂ emissions.
+<br>🥗 Food production & consumption
+<br>❄️ Heating & Cooling systems
+<br>all contribute to the surge in CO₂ emissions.
 
 👉 This project aims to empower individuals by:
 
