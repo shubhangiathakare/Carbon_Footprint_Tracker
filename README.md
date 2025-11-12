@@ -21,13 +21,13 @@ Everyday activities such as:
 
 🛠️ Tech Stack
 
-🔹 Backend Development 📊 Pandas → Data manipulation & analysis
-🔢 NumPy → Numerical operations
-🤖 Scikit-learn → Machine learning models
-🗂️ IO Library → Input/Output handling
-📈 Matplotlib → Data visualization
-🖼️ Pillow → Image processing
-🔐 Base64 → Encoding & decoding images
+<br>🔹 Backend Development 📊 Pandas → Data manipulation & analysis
+<br>🔢 NumPy → Numerical operations
+<br>🤖 Scikit-learn → Machine learning models
+<br>🗂️ IO Library → Input/Output handling
+<br>📈 Matplotlib → Data visualization
+<br>🖼️ Pillow → Image processing
+<br>🔐 Base64 → Encoding & decoding images
 
 🔹 Frontend Development ⚡ Streamlit → Web app framework 🎨 CSS + JavaScript → UI styling & interactivity 🧪 Testing → Ensured smooth integration between frontend & backend.
 
