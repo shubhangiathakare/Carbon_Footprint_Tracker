@@ -1,1 +1,18 @@
+TESTING, RESULTS AND DISCUSSION
+SYSTEM TESTING AND VALIDATION
+
+WORK DONE
+During the testing phase, complete validation of the Carbon Footprint Tracker application was carried out to ensure correct functionality and accurate results. The system was tested using multiple user input scenarios representing different lifestyle patterns. This helped verify whether the prediction model generated reasonable and consistent carbon footprint values across diverse cases.
+
+The application’s user interface was also tested to ensure smooth navigation, proper input handling, and correct display of results. Special attention was given to validating category-wise emission breakdowns and graphical outputs. Error handling mechanisms were tested by providing incomplete or incorrect inputs to confirm that the system responds appropriately with meaningful feedback.
+
+KEY ACTIVITIES
+- Performed functional testing of the web-based application
+- Tested the system with diverse user lifestyle input scenarios
+- Verified the accuracy and consistency of carbon footprint predictions
+- Checked category-wise emission breakdown and visualization charts
+- Tested error handling for missing, incomplete, or invalid inputs
+
+OUTCOME
+The system testing phase was completed successfully, and the Carbon Footprint Tracker was found to be stable and reliable. The application produced consistent prediction results and delivered a smooth and user-friendly experience, confirming its readiness for final analysis, deployment, and documentation.
 
