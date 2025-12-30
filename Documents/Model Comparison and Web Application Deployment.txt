@@ -1,1 +1,25 @@
+MODEL COMPARISON AND WEB APPLICATION DEPLOYMENT
+
+WORK DONE
+During the development phase, a detailed comparison of all trained machine learning models was conducted to identify the most suitable model for carbon footprint prediction. The models were evaluated using standard performance metrics, including Root Mean Square Error (RMSE) and R² score, to assess prediction accuracy and reliability.
+
+Based on the evaluation results, the Multi-Layer Perceptron (MLP) Regressor demonstrated stable and consistent performance compared to Linear Regression. The MLP model showed better capability in capturing non-linear relationships between lifestyle parameters and carbon emissions, making it more suitable for personalized carbon footprint estimation. Consequently, the MLP Regressor was selected as the final model for deployment.
+
+Following model selection, the trained MLP Regressor was integrated into the web-based Carbon Footprint Tracker application. The application was developed using Streamlit, providing an intuitive and user-friendly interface. Users can input details related to their daily activities, such as transportation habits, energy usage, dietary preferences, and waste generation.
+
+The system processes the user inputs in real time and generates an estimated carbon footprint. The results are presented through category-wise emission breakdowns using interactive visual charts, enabling users to easily understand the major contributors to their carbon emissions.
+
+Extensive testing was carried out to ensure smooth user interaction, accurate model predictions, and correct visualization of results.
+
+
+KEY ACTIVITIES
+- Compared the performance of Linear Regression and MLP Regressor models using RMSE and R² metrics
+- Selected MLP Regressor as the final deployment model
+- Integrated the trained MLP model into the web-based application
+- Designed intuitive user input forms and emission visualization dashboards
+- Tested application functionality, prediction accuracy, and user experience
+
+
+OUTCOME
+A fully functional web-based Carbon Footprint Tracker was successfully deployed using the MLP Regressor model. The application provides real-time carbon footprint estimation along with clear, category-wise visual insights. This enables users to better understand their environmental impact and supports informed decision-making toward reducing carbon emissions and adopting sustainable practices.
 
