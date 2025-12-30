@@ -5,7 +5,7 @@ Climate change is one of the most pressing global challenges, with carbon emissi
 Our project, **"Carbon Footprint Detection,"** aims to bridge this gap by providing a web-based system that allows users to calculate and analyze their personal carbon emissions. Through data input, analysis, and visualization, users gain insights into their environmental impact and receive tailored recommendations to reduce their carbon footprint. This system empowers individuals to take meaningful steps toward sustainability, ultimately contributing to a healthier planet.  
 
 ---  
-Everyday activities such as: 
+Everyday activities such as:  
 <br>🚗 Transportation
 <br>💡 Energy consumption
 <br>🥗 Food production & consumption
